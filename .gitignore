@@ -2,3 +2,8 @@
 *.html
 *.class
 *.txt
+/.metadata/
+/.recommenders/
+*.classpath
+*.project
+*/.settings/
